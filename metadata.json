@@ -1,0 +1,6 @@
+{
+  "name": "GameTopUp Pro",
+  "description": "Layanan top up game online profesional yang modern, responsif, cepat, aman, dan mudah digunakan dengan dashboard admin dan riwayat transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
